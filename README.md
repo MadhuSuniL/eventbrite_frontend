@@ -1,3 +1,3 @@
 ##Home page##
 
-![Home page Desktop View](https://github.com/MadhuSuniL/eventbrite_frontend/blob/master/use/d1.png?raw=true)
+![Home page Desktop View](https://res.cloudinary.com/dcc8pmavm/image/upload/v1682966614/d1_y6xnj3.png)
